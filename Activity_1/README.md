@@ -1,4 +1,3 @@
 # Portfolio-Building
 # Activity 1 - Hello World Program
-This is a project  to learn and understand how a c program is 
-written, compiled and pushed on github repository PB
+This is a project  to learn and understand how a c program is written, compiled and pushed on github repository PB
