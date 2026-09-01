@@ -6,6 +6,6 @@ void greet(const char* name) {
 
 int main () {
     printf("Hello, World!\n");
-    greet("Alice");
+    greet("Niswarth");
     return 0;
 }
